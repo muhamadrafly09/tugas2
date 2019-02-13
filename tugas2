@@ -1,0 +1,23 @@
+Langkah pertama, buat repository baru pada github. dan buat program baru di git bas
+Seperti dibawah ini.
+
+![gambar1](https://user-images.githubusercontent.com/46734939/52682736-0699d480-2f73-11e9-9b9d-879a373760a5.png)
+kemudian buat program seperti dibawah ini.
+![gambar2](https://user-images.githubusercontent.com/46734939/52682678-d3574580-2f72-11e9-8c9d-c19af7fe871f.png)
+
+Langkah kedua, buat program menampilkan nilai terbesar dengan aplikasi Python.
+Buka aplikasi Idle (python) dan buat file baru dengan format "nama file" dengan diberi akhiran "py".
+Ketik perintah seperti dibawah ini. (menggunakan fungsi if)
+
+![gambar3](https://user-images.githubusercontent.com/46734939/52682946-cd159900-2f73-11e9-95d8-c52f00f88a25.png)
+
+int = integer (tipe data yang dipakai untuk penulisan angka)
+if = fungsi if disini diartikan jika (a) lebih besar dari (b), dan (a) lebih besar dari (c).
+Maka print nilai (a) dengan menambahkan kalimat "nilai terbesar" begitu seterusnya.
+esle = jika ada input lain maka print "salah"
+berikut adalah hasil dari program tersebut.
+
+![gambar4](https://user-images.githubusercontent.com/46734939/52683623-f2a3a200-2f75-11e9-8bc4-4d644a59be1a.png)
+
+sekian dan terimakasih...
+semoga bermanfaat untuk kita semua
